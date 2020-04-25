@@ -8,11 +8,11 @@ int main() {
 
     cout << "Program sluzy do wykonywania dzialan matematycznych\n";
 
-    cout << "Wybierz numer dzialania:\n";
-    cout << "\t1 - Dodawanie\n";
-    cout << "\t2 - Odejmowanie\n";
-    cout << "\t3 - Mnozenie\n";
-    cout << "\t4 - Dzielenie\n";
+    cout << "Wybierz znak:\n";
+    cout << "\t1 - +\n";
+    cout << "\t2 - -\n";
+    cout << "\t3 - *\n";
+    cout << "\t4 - /\n";
 
     cout << "Numer dzialania: ";
     cin >> numer;
