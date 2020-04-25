@@ -23,6 +23,8 @@ int main() {
     cout << "\tb = ";
     cin >> b;
 
+    cout << "asfsdagagdfga";
+
 
 
 
