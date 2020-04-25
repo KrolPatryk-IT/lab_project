@@ -4,7 +4,8 @@ using namespace std;
 
 int main() {
 
-    float numer, a, b;
+    float numer;
+    int ilosc;
 
     cout << "Program sluzy do wykonywania dzialan matematycznych\n";
 
@@ -17,11 +18,9 @@ int main() {
     cout << "Numer dzialania: ";
     cin >> numer;
 
-    cout << "Podaj liczby";
-    cout << "\n\ta = ";
-    cin >> a;
-    cout << "\tb = ";
-    cin >> b;
+    cout << "Podaj na ilu liczbach chcesz wykonac dzialania: ";
+    cin >> ilosc;
+
 
 
 
